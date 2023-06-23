@@ -1,0 +1,47 @@
+.about-us h1 span {
+    color:yellowgreen;
+}
+.about-us .btn{
+    background-color:rgb(154, 205, 50);
+    border:none;
+    border-radius: 2px;
+}
+.img-fluid{
+    padding:30px;
+}
+.newsletter{
+    background-color: rgb(154, 205, 50);
+}
+.find-us .title{
+    display:flex;
+    align-items: center;
+    flex-direction: column;
+}
+.find-us h1{
+    padding: 15px;
+    font-size: 39px;
+}
+.find-us .desc p{
+    
+    display: flex;
+    justify-content: center;
+    margin:40px;
+    padding:25px 25px;
+}
+.find-us .content{
+    display:flex;
+    font-size: 30px;
+}
+footer{
+    display: flex;
+    justify-content: center;
+    padding: 20px;
+    position: relative;
+    top: 85px;
+    background-color: var(--color-grey-2);
+}
+
+
+.bi.bi-emoji-heart-eyes-fill{
+    color:red;
+}
